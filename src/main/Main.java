@@ -8,9 +8,9 @@ public class Main {
     /**
      * First java program
      *
-     * @param args : program arguments
+     @param args : program arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello " + args[0] + "!");
+        System.out.println("Hello "  + "!");
     }
 }
